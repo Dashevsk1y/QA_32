@@ -73,3 +73,5 @@ person1.set_full_name(new_name)
 
 print("\nChange date:")
 person1.display_data()
+
+# Задание 2
