@@ -35,14 +35,14 @@ class Number:
 
 # Приклад використання:
 a = Number(4)
-b = Number(2)
+b = Number(3)
 
-сума = a + b
-різниця = a - b
-продукт = a * b
-частка = a / b
+sum = a + b
+subtraction = a - b
+multiplication = a * b
+division = a / b
 
-print("Сума:", сума)
-print("Різниця:", різниця)
-print("Множення:", продукт)
-print("Ділення:", частка)
+print("Сума:", sum)
+print("Різниця:", subtraction)
+print("Множення:", multiplication)
+print("Ділення:", division)
